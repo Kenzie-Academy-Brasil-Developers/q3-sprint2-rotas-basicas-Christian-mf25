@@ -14,3 +14,6 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
+venv/
+.env
+**/__pycache__
